@@ -14,3 +14,11 @@
         overflow-x: hidden;
     }
 }
+@media(max-width:415px){
+    html,body{
+        overflow-x: hidden;
+    }
+    navbar{
+        width: 414px;
+         }
+}
