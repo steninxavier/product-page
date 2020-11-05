@@ -212,31 +212,7 @@ h2.section-title-heading {
 #contact .contact-details ul li i {
     color: rgba(0,172,217, 0.62);
 }
-#footer {
-    background-color: #2b323f;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    position: relative;
-}
 
-#footer .footer-logo img {
-    margin-top: -4.5rem;
-}
-
-#footer .social-icons {
-    margin-top: -1rem;
-}
-
-#footer .social-icons a {
-    margin-right: 10px;
-    color: #8d8c8c;
-}
-
-.copyright p {
-    margin-top: 1rem;
-    color: #ffffff;
-    font-size: .9rem;
-}
 .subscription.bg-white {
     background: none
 }
